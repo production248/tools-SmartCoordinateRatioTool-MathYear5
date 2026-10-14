@@ -1,0 +1,1 @@
+﻿window.COORDINATE_RATIO_GRADE = 5;
